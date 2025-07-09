@@ -498,6 +498,9 @@ profile-photo .img{
   .header i{
     color: #e5e5e5;
   }
+  h1 {
+        font-size: 8vw;
+      }
 
   .profile-text{
     width: 350px;
