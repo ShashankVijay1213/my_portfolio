@@ -6,9 +6,7 @@ A personal portfolio website showcasing my projects, skills, and contact informa
 
 📜 About Me & Skills overview
 
-💬 Contact form or email link
-
-🌙 Dark theme design
+💬 Contact form 
 
 📱 Responsive for all screen sizes
 
