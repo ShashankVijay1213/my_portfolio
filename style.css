@@ -377,6 +377,16 @@ profile-photo .img{
 .project:hover{
   border-color: #fed700;
 }
+.project-text .link i{
+  color : #0000;
+  font-size: 18px;
+  margin-right: 10px;
+  transition: 0.5s;
+}
+.project-text .link i:hover{
+  color:#fed700;
+  transform: rotate(360deg);
+}
 
 
 
