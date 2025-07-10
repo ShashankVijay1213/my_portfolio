@@ -1,4 +1,5 @@
 A personal portfolio website showcasing my projects, skills, and contact information — built using clean, responsive HTML, CSS, and optionally JavaScript.
+
 ✨ Features:-
 
 🧑‍💻 Projects section with GitHub links
