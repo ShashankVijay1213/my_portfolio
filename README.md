@@ -13,4 +13,4 @@ A personal portfolio website showcasing my projects, skills, and contact informa
 ### 📸 Demo
 
 ![Homepage Screenshot](images/1.png)
-![Projects Section](images/2.png)
+![Projects Section](images/3.png)
